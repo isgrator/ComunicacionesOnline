@@ -1,1 +1,1 @@
-include ':comunicacionesonline', ':restful', ':ubidotsapirest', ':mqtt'
+include ':comunicacionesonline', ':restful', ':ubidotsapirest', ':mqtt', ':mqttcontrolled'
